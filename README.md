@@ -1,5 +1,5 @@
 # Rfid-Based-Car-Parking-System
-
+<img src="img.jpg" />
 <p> A car parking system arduino project which makes use of rfid tags to identify cars </p>
 <p> Servo motor is used to mimic gates </p>
 <p> IR sensors are used to sense a car parked at a slot </p>
